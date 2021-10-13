@@ -19,7 +19,7 @@ namespace beepy2
       Console.Beep(493, 300);
       Console.Beep(523, 300);
       Console.Beep(440, 300);
-      Thread.Sleep(400);
+      Thread.Sleep(500);
 
       Console.WriteLine("Здравствуй юность в сапогах");       
       Console.Beep(587, 300);
@@ -29,7 +29,7 @@ namespace beepy2
       Console.Beep(493, 300);
       Console.Beep(523, 300);
       Console.Beep(659, 300);
-      Thread.Sleep(400);
+      Thread.Sleep(500);
 
       Console.WriteLine("Пропади моя тоска");   
       Console.Beep(587, 300);
@@ -39,7 +39,7 @@ namespace beepy2
       Console.Beep(493, 300);
       Console.Beep(523, 300);
       Console.Beep(440, 300);
-      Thread.Sleep(400);
+      Thread.Sleep(500);
 
       Console.WriteLine("Вот он я, привет войска!");      
       Console.Beep(587, 300);
@@ -132,6 +132,62 @@ namespace beepy2
       Console.Beep(261, 300);
       Console.Beep(220, 600);
       Thread.Sleep(600);
+
+      Console.WriteLine("Где-то течёт река");
+      Console.Beep(523, 600);
+      Console.Beep(784, 500);
+      Console.Beep(659, 300);
+      Console.Beep(698, 400);
+      Console.Beep(659, 400);
+      Console.Beep(587, 400);
+      Thread.Sleep(400);
+
+      Console.WriteLine("Где-то дом, где все ждут нас назад");
+      Console.Beep(523, 300);
+      Console.Beep(587, 300);
+      Console.Beep(659, 500);
+      Console.Beep(587, 300);
+      Console.Beep(523, 300);
+      Console.Beep(493, 400);
+      Console.Beep(440, 400);
+      Console.Beep(392, 300);
+      Console.Beep(349, 700);
+      Thread.Sleep(400);
+
+      Console.WriteLine(" ");
+      Console.Beep(523, 300);
+      Console.Beep(493, 300);
+      Console.Beep(440, 300);
+      Console.Beep(392, 300);
+      Console.Beep(349, 300);
+      Thread.Sleep(400);
+
+      Console.WriteLine("Это не грусть слегка,");
+      Console.Beep(523, 700);
+      Console.Beep(784, 600);
+      Console.Beep(880, 300);
+      Console.Beep(698, 700);
+      Console.Beep(659, 300);
+      Console.Beep(587, 400);
+      Thread.Sleep(400);
+
+     Console.WriteLine("Просто ветер щекочет глаза");
+      Console.Beep(523, 400);
+      Console.Beep(587, 300);
+      Console.Beep(659, 400);
+      Console.Beep(587, 400);
+      Console.Beep(523, 300);
+      Console.Beep(493, 400);
+      Console.Beep(440, 400);
+      Console.Beep(392, 300);
+      Console.Beep(349, 1500);
+      Thread.Sleep(400);
+
+
+
+
+
+
 
       Console.WriteLine("Непросто быть собой,");
       Console.Beep(659, 300);
